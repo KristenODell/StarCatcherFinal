@@ -17,7 +17,7 @@ public class StartBackgroundMusic : MonoBehaviour
     {
         if(timer.timeRemaining <= 105)
         {
-            source.volume = .03f;
+            source.volume = .1f;
         }
     }
 	
